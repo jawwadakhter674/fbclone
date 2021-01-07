@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+body{
+  
+}
+.mainTodo{
+  background-color: rgb(138, 138, 138);
+  color: white;
+  width: 500px;
+  /* display: flex; */
+}
+hr{
+  height: 3px;
+  width: 380px;
+  color: white;
+  background-color: white;
+  
+}
+.todo-item{
+  background-color: rgb(138, 138, 138);
+  border: 2px solid rgb(110, 110, 110);
+
+  box-shadow: 
+  2px 2px 2px 2px 
+  2px 2px 2px 2px 
+  2px 2px 2px 2px 
+  12px 12px 12px 12px 
+  ;
+  display: flex;
+  color: white;
+  width: 400px;
+}
+
+
